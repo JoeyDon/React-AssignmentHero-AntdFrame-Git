@@ -1,1 +1,168 @@
-.logo{    align-items: center;    display: flex;}.logo img{    width:140px;    height:51px;}.footer{    text-align: center;}.headMenu{    font-size:14px;    float: right;    border-bottom: none !important;    background-color: transparent !important;    color: white !important;    font-weight: lighter !important;}.topPart{    background-image: url("../img/headerBackground.png");    background-size: 100%;    background-repeat: no-repeat;    height: 800px;}.textInNav{    height: 20px;    line-height: 20px;    padding-left: 0px !important;    padding-right: 0px !important;}.gapInNav{    height: 20px;    line-height: 20px;    padding-left: 20px !important;    padding-right: 0px !important;    visibility: hidden;}.topNavigator{    padding: 20px 20px 0px;}.username{    height: 40px;}.password{    height: 40px;}.confirmPassword{    height: 40px;}.label1{    padding-top: 150px;    font-size: 48px;    text-align: center;    color: white;}.label2{    text-align: center;    padding-top: 10px;    font-size: 22px;    color: white;}.searchDiv{    padding-top: 20px;    text-align: center;}.search{    width: 30% !important;    height: 40px !important;}.searchRecommend{    padding-top: 10px;    text-align: center;}.searchRecommend button{    background-color: transparent !important;    color: white !important;    margin-right: 10px;    font-weight: lighter !important;}
+.header {
+    min-height: 650px !important;
+    background-image: url("../img/headerBackground.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.logo{
+    align-items: center;
+    display: flex;
+}
+
+.logo img{
+    width:140px;
+    height:51px;
+}
+
+.sidebar {
+    max-width: 360px;
+    padding: 30px;
+}
+
+.content {
+    padding: 30px;
+}
+
+.content-box {
+  padding: 30px 20px 10px;
+  border-radius: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 15px 19px 0 rgba(189, 203, 213, 0.53);
+}
+
+.content-box-header {
+  font-size: 24px;
+  text-align: left;
+  color: #575c6a;
+}
+
+.content-box-header-more {
+    width: 23px;
+    height: 23px;
+    font-size: 30px;
+    line-height: 14px;
+    text-align: center;
+    padding: 0;
+    border: solid 1px #e02b89;
+    border-radius: 20px;
+}
+.content-box-picture {
+    margin: 30px;
+}
+.content-box-picture > .picture {
+    width: 75%;
+    margin: auto;
+    border-radius: 5px;
+    border: solid 2px #4da1ff;
+    text-align: center;
+    color: #575c6a;
+}
+.content-box-picture > .picture:after {
+  content: "";
+  display: block;
+  padding-bottom: 100%;
+}
+
+.content-box-footer {
+  opacity: 0.32;
+  font-family: AmsiPro;
+  font-size: 11px;
+  font-weight: 600;
+  text-align: center;
+  color: #575c6a;
+}
+
+.content-box-upload-footer {
+    font-family: ".SFNSText";
+    font-size: 24px;
+    text-align: center;
+    height: 50px;
+    line-height: 44px;
+    margin: 0 -20px -20px;
+    border-radius: 0 0 20px 20px;
+    color: #ffffff;
+    background-color: #5bd982;
+}
+
+.footer{
+    text-align: center;
+}
+
+.headMenu{
+    font-size:14px;
+    float: right;
+    border-bottom: none !important;
+    background-color: transparent !important;
+    color: white !important;
+    font-weight: lighter !important;
+
+}
+
+.textInNav{
+    height: 20px;
+    line-height: 20px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.gapInNav{
+    height: 20px;
+    line-height: 20px;
+    padding-left: 20px !important;
+    padding-right: 0px !important;
+    visibility: hidden;
+}
+
+.topNavigator{
+    padding: 20px 20px 0px;
+}
+
+
+.username{
+    height: 40px;
+}
+
+.password{
+    height: 40px;
+}
+
+.confirmPassword{
+    height: 40px;
+}
+
+.headLabel1{
+    padding-top: 150px;
+    font-size: 48px;
+    text-align: center;
+    color: white;
+}
+
+.headLabel2{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 22px;
+    color: white;
+}
+.searchDiv{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.search{
+    width: 30% !important;
+    height: 40px !important;
+}
+
+.searchRecommend{
+    padding-top: 10px;
+    text-align: center;
+}
+
+.searchRecommend button{
+    background-color: transparent !important;
+    color: white !important;
+    margin-right: 10px;
+    font-weight: lighter !important;
+
+}

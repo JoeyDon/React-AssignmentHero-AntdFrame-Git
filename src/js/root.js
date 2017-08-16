@@ -21,4 +21,4 @@ export default class Root extends React.Component {
     };
 }
 
-ReactDOM.render(<Root/>, document.getElementById('mainContainer'));
+ReactDOM.render(<Root/>, document.getElementById('app'));
