@@ -15,6 +15,7 @@ export default class PCIndex extends React.Component{
                 <Layout>
                     <Sider width={360} className="sidebar"><PCSidebar/></Sider>
                     <Content className="content"><PCContent/></Content>
+
                 </Layout>
                 <footer className="footer"><PCFooter/></footer>
             </Layout>

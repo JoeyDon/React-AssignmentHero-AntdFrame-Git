@@ -40,7 +40,7 @@ class PCHeader extends React.Component{
     };
 
     handleSubmit(e){
-      //页面API提交
+      //API
     };
 
     render(){

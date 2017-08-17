@@ -1,5 +1,5 @@
 # React-AssignmentHero-AntdFrame
-AntDesign framework used in here as it‚Äôs react-supportive. 
+AntDesign framework used in here as itís react-supportive. 
 https://ant.design/
 
 # How to run it
@@ -8,11 +8,11 @@ https://ant.design/
 * npm install react-responsive --save
 * npm start
 
-# As we discussed for the first week:
-* Joey do the top head part(above and including the background picture)
-* Leon do the left navi part
-* Sam do the right rest part
+# As we discussed for the third week:
+* Joey do the document page top part and left container part
+* Sam do the document page right part
+* Leon start investigating how to download 
 * Cheers, everyone!
 
 # Sorry for a bit messy in Commits:
-Still trying to understand git thing. But this one should be the final correct ‚ÄúInitial Commit‚Äù
+Still trying to understand git thing. But this one should be the final correct ìInitial Commitî

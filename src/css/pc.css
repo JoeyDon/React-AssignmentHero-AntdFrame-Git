@@ -166,3 +166,112 @@
     font-weight: lighter !important;
 
 }
+
+.documentTop1{
+    height: 70px !important;
+    background-color: #f0f5f8;
+    border-bottom: 1px solid #d2dce2;
+}
+
+.documentLogo{
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    -moz-transform:scale(0.7);
+    -webkit-transform:scale(0.7);
+    transform:scale(0.7);
+}
+
+hr{
+    border: solid 1px #d2dce2;
+}
+
+
+.borderLeft{
+    height: 100%;
+    border-left: 1px solid #d2dce2;
+}
+
+.documentTop2{
+    height: 45px !important;
+    background-color: #f0f5f8;
+}
+
+.documentTop3{
+    height: 50px !important;
+    background-color: #ffffff;
+}
+
+.smallInfo{
+    padding-top: 10px;
+    text-align: center;
+}
+
+.smallTitle{
+    font-family: ProximaNova;
+    font-size: 12px;
+    font-weight: 400;
+    color: #5bd982;
+}
+
+.smallAuthor{
+    color: #9f9f9f;
+}
+
+.smallDate{
+    text-align: center;
+    color: #9f9f9f;
+    font-size: 10px;
+    font-family: ProximaNova;
+    padding-top: 10px;
+}
+
+.buttonZoomOut{
+    -moz-transform:scale(0.5);
+    -webkit-transform:scale(0.5);
+    transform:scale(0.5);
+    padding-left: 10px;
+    float: right;
+}
+
+.buttonZoomIn{
+    -moz-transform:scale(0.5);
+    -webkit-transform:scale(0.5);
+    transform:scale(0.5);
+    padding-left: 10px;
+    float: right;
+}
+
+.documentBodyLeft{
+    background-color: #f0f5f8;
+    height: 800px;
+}
+
+
+.contentDocument{
+    margin-top: 30px;
+    background-color: white;
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: center;
+
+}
+
+.titleContent{
+    font-family: Sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    color: black;
+    padding-top: 100px;
+}
+
+.authorContent{
+    font-family: Sans-serif;
+    font-size: 14px;
+    font-weight: 200;
+    color: #9f9f9f;
+}
+
+.contentContent{
+    padding: 40px;
+}
