@@ -1,4 +1,9 @@
 import React from 'react';
+import {
+    BrowserRouter as Router,
+    Route,
+    Link
+} from 'react-router-dom';
 import { Row, Col, Tabs, message, Form, Button, Checkbox, Modal,Input } from 'antd';
 import { Menu, Icon } from 'antd';
 import 'antd/dist/antd.css';
@@ -140,6 +145,7 @@ class PCHeader extends React.Component{
                     <Button>English Essays</Button>
                     <Button>Business</Button>
                     <Button>Coding</Button>
+                    <Link to="/documentExample">Document Example</Link>
 
                 </div>
             </div>
